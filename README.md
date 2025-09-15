@@ -7,7 +7,7 @@
 ## 🌟 About Me  
 - 🎓 B.Tech in Electronics Engineering (2025 graduate)  
 - 💻 Skilled in **MERN stack, DevOps basics, AI/ML**  
-- 🔍 Interested in Backend Development & Generative AI  
+- 🔍 Interested in Backend Development & AI  
 - 📚 Always learning & exploring new technologies  
 
 ---
