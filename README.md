@@ -22,7 +22,7 @@
 
 ## 📈 Projects  
 - 🎥 [Video Stream API](https://github.com/aditya-4747/VideoStreamAPI) – Backend like YouTube with playlists, likes, comments, subscriptions etc.
-- 🤖 [Spitting Detection System](https://github.com/aditya-4747/real-time-spitting-detection) – Real-time YOLO-based detection  
+- 🤖 [Spitting Detection System](https://github.com/aditya-4747/spitting-detection-system) – Real-time YOLO-based detection  
 - 📊 [e-Yoga:Smart Yoga Marketplace](https://github.com/aditya-4747/e-Yoga) – Next.js based E-commerce Marketplace
 - 🕵️ [Price Tracking Tool](https://github.com/aditya-4747/Price-Tracking-Tool) – Smart Price Tracking tool for Amazon & Flipkart  
 - 🕵️ [Real-Time Location Tracking](https://github.com/aditya-4747/real-time-location-tracking) – Track and visualize live user locations
