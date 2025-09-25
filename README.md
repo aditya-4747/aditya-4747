@@ -36,5 +36,3 @@
 - 🌍 [Portfolio Website](https://portfolio-devaditya.vercel.app/)
 
 ---
-
-⭐️ From [Aditya Maddeshiya](https://github.com/aditya-4747)
