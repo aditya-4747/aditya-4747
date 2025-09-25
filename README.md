@@ -16,7 +16,7 @@
 **Languages**: C++, JavaScript, SQL, HTML, CSS  
 **Frameworks & Libraries**: React, Express.js, Node.js, Tailwind CSS  
 **Databases**: MongoDB, MySQL, PostgreSQL  
-**DevOps & Tools**: Docker, Git/GitHub, Google Cloud Platform(GCP)
+**DevOps & Tools**: Docker, Git/GitHub, AWS, GCP
 
 ---
 
