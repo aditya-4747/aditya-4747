@@ -13,9 +13,9 @@
 ---
 
 ## 🛠️ Tech Stack  
-**Languages**: C++, JavaScript, SQL, HTML, CSS  
+**Languages**: Python, C++, TypeScript, JavaScript, SQL
 **Frameworks & Libraries**: React, Express.js, Node.js, Tailwind CSS  
-**Databases**: MongoDB, MySQL, PostgreSQL  
+**Databases**: MongoDB, MySQL, PostgreSQL 
 **DevOps & Tools**: Docker, Git/GitHub, AWS, GCP
 
 ---
@@ -33,6 +33,5 @@
 - 📧 Email: adityamaddeshiya470@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/aditya-kumar47/)  
 - 🐦 [Twitter](https://x.com/Adityak47_)  
-- 🌍 [Portfolio Website](https://portfolio-devaditya.vercel.app/)
 
 ---
