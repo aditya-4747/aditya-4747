@@ -13,10 +13,10 @@
 ---
 
 ## 🛠️ Tech Stack  
-**Languages**: Python, C++, TypeScript, JavaScript, SQL
-**Frameworks & Libraries**: React, Express.js, Node.js, Tailwind CSS  
+**Languages**: Python, C++, TypeScript, JavaScript, SQL 
+**Frameworks & Libraries**: React, Express.js, Node.js, Tailwind CSS 
 **Databases**: MongoDB, MySQL, PostgreSQL 
-**DevOps & Tools**: Docker, Git/GitHub, AWS, GCP
+**DevOps & Tools**: Docker, Git/GitHub, AWS, GCP 
 
 ---
 
